@@ -1,0 +1,19 @@
+/*The rank1 is low and rank3 is high*/
+
+.rank1 {
+	background-color: lightblue;
+}
+
+.rank2 {
+	background-color: yellow;
+}
+
+.rank3 {
+	background-color: coral;
+}
+
+table {
+    border-collapse: separate;
+    empty-cells: hide;
+    padding: 0;
+}
